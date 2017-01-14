@@ -1,0 +1,17 @@
+body {
+  background-color: #87CEFA;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: #FF4500;
+}
+
+#slogan {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
