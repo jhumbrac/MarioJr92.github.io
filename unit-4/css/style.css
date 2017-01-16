@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+body {
+  background-color: #87CEFA;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: #FF4500;
+  font-family: 'Fredoka One', cursive;
+}
+
+#slogan {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
